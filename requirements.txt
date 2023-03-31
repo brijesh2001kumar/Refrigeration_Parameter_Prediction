@@ -3,3 +3,4 @@ numpy==1.19.5
 streamlit==1.11.0
 streamlit_webrtc==0.45.0
 tensorflow
+sklearn
