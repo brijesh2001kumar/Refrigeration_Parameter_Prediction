@@ -32,7 +32,9 @@ st.markdown(
    f'''
    <style>
    .stApp {{
-             background: url("https://img.freepik.com/premium-photo/abstract-communication-technology-network-concept_34629-641.jpg?w=1380");
+   # https://img.freepik.com/premium-photo/abstract-communication-technology-network-concept_34629-641.jpg?w=1380
+             
+             background: url("https://www.freepik.com/free-photo/solid-navy-blue-concrete-textured-wall_17119118.htm#query=dark%20background&position=13&from_view=search&track=ais");
              background-size: cover
          }}
    </style>
