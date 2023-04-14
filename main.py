@@ -34,7 +34,7 @@ st.markdown(
    .stApp {{
    # https://img.freepik.com/premium-photo/abstract-communication-technology-network-concept_34629-641.jpg?w=1380
              
-             background: url("https://www.freepik.com/free-photo/solid-navy-blue-concrete-textured-wall_17119118.htm#query=dark%20background&position=13&from_view=search&track=ais");
+             background: url("https://www.freepik.com/free-photo/dirty-old-wallpaper-textured-backdrop_17113803.htm#query=dark%20background&position=31&from_view=search&track=ais");
              background-size: cover
          }}
    </style>
