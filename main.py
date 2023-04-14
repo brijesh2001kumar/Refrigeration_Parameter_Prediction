@@ -55,7 +55,7 @@ with header:
     st.markdown("""---""")
     col1,col2=st.columns(2)
     col1.write('This app predicts various performance metrics namely:- \n\nCOP, evaporator capacity and Gas cooler capacity\n\ngiven:-\n\nevaporator exit temperature,gas cooler outlet temperature, gas cooler pressure, superheat temperature in suction line and compressor efficiency\n\n for non-ideal single stage Transcritical CO2 refrigeration system.')
-    col2.image('cycle.png')
+    col2.image('Picture1.png')
     st.markdown("""---""")
     
 
